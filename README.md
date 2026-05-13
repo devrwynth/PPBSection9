@@ -1,17 +1,16 @@
-# flutter_yolo
+# PPB Section 9: Implementasi AI pada aplikasi Flutter
 
-A new Flutter project.
+Muhammad Azka Andrian Kusno
 
-## Getting Started
+5025231102
 
-This project is a starting point for a Flutter application.
+# Deskripsi
+Aplikasi sederhana yang menyediakan fitur deteksi objek pada suatu image. Image dipilih dari galeri oleh user.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="443" height="894" alt="image" src="https://github.com/user-attachments/assets/b9bc9bec-dc60-41ce-a26e-10514ee492b4" />
+
+
+<img width="441" height="898" alt="image" src="https://github.com/user-attachments/assets/7629887a-8ad1-4196-86f6-1fe05bb19e46" />
